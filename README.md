@@ -1,2 +1,27 @@
-# manifestEdit
-一个mainfest文件的在线编辑器，可以看到效果
+# manifestedit 一个manifest的在线编辑器
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
